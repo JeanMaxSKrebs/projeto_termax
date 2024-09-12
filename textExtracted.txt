@@ -1,0 +1,201 @@
+
+Arquivo: src\components\MiniGame\MiniGame.js
+Linha: 98
+Texto: {t('Você Ganhou!')}
+
+Arquivo: src\components\MiniGame\MiniGame.js
+Linha: 110
+Texto: {t('Você Perdeu! Mas ainda ganhou:')}
+
+Arquivo: src\components\MiniGame\MiniGameSelector.js
+Linha: 17
+Texto: {t('Recompensas do Mini Jogo')}
+
+Arquivo: src\components\MiniGame\MiniGameSelector.js
+Linha: 20
+Texto: {t(':')}
+
+Arquivo: src\components\MiniGame\MiniGameSelector.js
+Linha: 21
+Texto: {t('(parseInt(game.id) * 100) + 100(parseInt(game.id) * 100) + 500')}
+
+Arquivo: src\components\MiniGame\MiniGameSelector.js
+Linha: 39
+Texto: {t('Selecione um Mini Jogo')}
+
+Arquivo: src\components\MiniGame\MiniGameSelector.js
+Linha: 44
+Texto: {t('Ver Recompensas')}
+
+Arquivo: src\components\MiniGame\MiniGameSelector.js
+Linha: 71
+Texto: {t('Fechar')}
+
+Arquivo: src\components\RewardButton.js
+Linha: 30
+Texto: {t('Fechar')}
+
+Arquivo: src\components\Voltar.js
+Linha: 11
+Texto: {t('&lt; voltar')}
+
+Arquivo: src\components\VoltarWithoutColor.js
+Linha: 11
+Texto: {t('&lt; voltar')}
+
+Arquivo: src\screens\Colecao\index.js
+Linha: 46
+Texto: {t('Minhas Coleções')}
+
+Arquivo: src\screens\DevTools\index.js
+Linha: 70
+Texto: {t('Dev Tools')}
+
+Arquivo: src\screens\DevTools\index.js
+Linha: 73
+Texto: {t('Add 1000 Coins')}
+
+Arquivo: src\screens\DevTools\index.js
+Linha: 77
+Texto: {t('Add 1 Key')}
+
+Arquivo: src\screens\DevTools\index.js
+Linha: 81
+Texto: {t('Add 1 Super Key')}
+
+Arquivo: src\screens\DevTools\index.js
+Linha: 85
+Texto: {t('Add 500 WordPoints')}
+
+Arquivo: src\screens\DevTools\index.js
+Linha: 89
+Texto: {t('Reset Chest Timer')}
+
+Arquivo: src\screens\DevTools\index.js
+Linha: 93
+Texto: {t('Reset All Resources')}
+
+Arquivo: src\screens\DevTools\index.js
+Linha: 97
+Texto: {t('Max All Resources')}
+
+Arquivo: src\screens\GameTypeSelection\conectadosSelection.js
+Linha: 60
+Texto: {t('playerst('JOGADORES')')}
+
+Arquivo: src\screens\GameTypeSelection\index.js
+Linha: 22
+Texto: {t('Termax')}
+
+Arquivo: src\screens\GameTypeSelection\termaxSelection.js
+Linha: 40
+Texto: {t('selectedNumt('LETRAS')')}
+
+Arquivo: src\screens\GameTypeSelection\termaxSelection.js
+Linha: 52
+Texto: {t('numt('LETRAS')')}
+
+Arquivo: src\screens\Home.js
+Linha: 192
+Texto: {t('TERMAX')}
+
+Arquivo: src\screens\Home.js
+Linha: 194
+Texto: {t('Usuário: ')}
+
+Arquivo: src\screens\Home.js
+Linha: 196
+Texto: {t('Usuário não encontrado')}
+
+Arquivo: src\screens\Jogo\Conectados\ConectadosGame.js
+Linha: 135
+Texto: {t(' ')}
+
+Arquivo: src\screens\Jogo\Conectados\ConectadosGame.js
+Linha: 136
+Texto: {t(' ')}
+
+Arquivo: src\screens\Jogo\Conectados\ConectadosGame.js
+Linha: 139
+Texto: {t(' <Timer isActive= /> ')}
+
+Arquivo: src\screens\Jogo\Conectados\ConectadosGame.js
+Linha: 140
+Texto: {t(' <Timer isActive= initialTime= /> ')}
+
+Arquivo: src\screens\Jogo\Conectados\index.js
+Linha: 92
+Texto: {t('Carregando...')}
+
+Arquivo: src\screens\Jogo\EscolhaPalavra.js
+Linha: 54
+Texto: {t('Escolha uma Palavra')}
+
+Arquivo: src\screens\Jogo\index.js
+Linha: 138
+Texto: {t('Termax')}
+
+Arquivo: src\screens\Loja\ChestOption.js
+Linha: 26
+Texto: {t('Recompensas do Baú')}
+
+Arquivo: src\screens\Loja\ChestOption.js
+Linha: 28
+Texto: {t('Baú Normal:')}
+
+Arquivo: src\screens\Loja\ChestOption.js
+Linha: 29
+Texto: {t('100 - 1000 Coins')}
+
+Arquivo: src\screens\Loja\ChestOption.js
+Linha: 32
+Texto: {t('Baú Especial:')}
+
+Arquivo: src\screens\Loja\ChestOption.js
+Linha: 33
+Texto: {t('1000 - 10000 Coins')}
+
+Arquivo: src\screens\Loja\ChestOption.js
+Linha: 36
+Texto: {t('Ambos podem conter:')}
+
+Arquivo: src\screens\Loja\ChestOption.js
+Linha: 37
+Texto: {t('Wordpoints')}
+
+Arquivo: src\screens\Loja\ChestOption.js
+Linha: 54
+Texto: {t('?')}
+
+Arquivo: src\screens\Loja\index.js
+Linha: 124
+Texto: {t('Loja')}
+
+Arquivo: src\screens\Loja\index.js
+Linha: 157
+Texto: {t('Dev Tools')}
+
+Arquivo: src\screens\Loja\index.js
+Linha: 161
+Texto: {t('Jogar Mini Game')}
+
+Arquivo: src\screens\Manutencao\index.js
+Linha: 16
+Texto: {t('TELA EM MANUTENÇÃO')}
+
+Arquivo: src\screens\Manutencao\index.js
+Linha: 17
+Texto: {t('EM BREVE PODERÁ ACESSAR A FUNCIONALIDADE DO SISTEMA:')}
+
+Arquivo: src\screens\PerfilUsuario\index.js
+Linha: 158
+Texto: {t('Perfil do Usuário')}
+
+Arquivo: src\screens\SignIn\index.js
+Linha: 137
+Texto: {t('OU')}
+
+Arquivo: src\screens\SignIn\index.js
+Linha: 141
+Texto: {t('Não tem uma conta?')}
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Incluir arquivos importantes no backup -->
+    <include>
+        <path>files/important_data/</path>
+        <path>shared_prefs/</path>
+    </include>
+    <!-- Excluir arquivos temporários do backup -->
+    <exclude>
+        <path>cache/</path>
+        <path>tmp/</path>
+    </exclude>
+</full-backup-content>

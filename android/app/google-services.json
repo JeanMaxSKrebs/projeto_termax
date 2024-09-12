@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68264887428",
+    "project_id": "projeto-termax",
+    "storage_bucket": "projeto-termax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68264887428:android:dbaeb367e9ad182b706ed1",
+        "android_client_info": {
+          "package_name": "com.projeto_termax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvgUmOvB3RyRerldDGvf0R6GQ7mjVsSxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
